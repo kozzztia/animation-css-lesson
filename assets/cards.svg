@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
+    <!-- Піки -->
+    <symbol id="card-spades-6" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">6♠</text>
+        <text x="80" y="140" font-size="18" fill="black">6♠</text>
+    </symbol>
+    <symbol id="card-spades-7" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">7♠</text>
+        <text x="80" y="140" font-size="18" fill="black">7♠</text>
+    </symbol>
+    <symbol id="card-spades-8" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">8♠</text>
+        <text x="80" y="140" font-size="18" fill="black">8♠</text>
+    </symbol>
+    <symbol id="card-spades-9" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">9♠</text>
+        <text x="80" y="140" font-size="18" fill="black">9♠</text>
+    </symbol>
+    <symbol id="card-spades-10" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">10♠</text>
+        <text x="80" y="140" font-size="18" fill="black">10♠</text>
+    </symbol>
+    <symbol id="card-spades-jack" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">J♠</text>
+        <text x="80" y="140" font-size="18" fill="black">J♠</text>
+    </symbol>
+    <symbol id="card-spades-queen" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">Q♠</text>
+        <text x="80" y="140" font-size="18" fill="black">Q♠</text>
+    </symbol>
+    <symbol id="card-spades-king" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">K♠</text>
+        <text x="80" y="140" font-size="18" fill="black">K♠</text>
+    </symbol>
+    <symbol id="card-spades-ace" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">A♠</text>
+        <text x="80" y="140" font-size="18" fill="black">A♠</text>
+    </symbol>
+
+    <!-- Черви -->
+    <symbol id="card-hearts-6" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">6♥</text>
+        <text x="80" y="140" font-size="18" fill="red">6♥</text>
+    </symbol>
+    <symbol id="card-hearts-7" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">7♥</text>
+        <text x="80" y="140" font-size="18" fill="red">7♥</text>
+    </symbol>
+    <symbol id="card-hearts-8" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">8♥</text>
+        <text x="80" y="140" font-size="18" fill="red">8♥</text>
+    </symbol>
+    <symbol id="card-hearts-9" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">9♥</text>
+        <text x="80" y="140" font-size="18" fill="red">9♥</text>
+    </symbol>
+    <symbol id="card-hearts-10" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">10♥</text>
+        <text x="80" y="140" font-size="18" fill="red">10♥</text>
+    </symbol>
+    <symbol id="card-hearts-jack" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">J♥</text>
+        <text x="80" y="140" font-size="18" fill="red">J♥</text>
+    </symbol>
+    <symbol id="card-hearts-queen" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">Q♥</text>
+        <text x="80" y="140" font-size="18" fill="red">Q♥</text>
+    </symbol>
+    <symbol id="card-hearts-king" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">K♥</text>
+        <text x="80" y="140" font-size="18" fill="red">K♥</text>
+    </symbol>
+    <symbol id="card-hearts-ace" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">A♥</text>
+        <text x="80" y="140" font-size="18" fill="red">A♥</text>
+    </symbol>
+     <!-- Хрести -->
+     <symbol id="card-clubs-6" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">6♣</text>
+        <text x="80" y="140" font-size="18" fill="black">6♣</text>
+    </symbol>
+    <symbol id="card-clubs-7" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">7♣</text>
+        <text x="80" y="140" font-size="18" fill="black">7♣</text>
+    </symbol>
+    <symbol id="card-clubs-8" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">8♣</text>
+        <text x="80" y="140" font-size="18" fill="black">8♣</text>
+    </symbol>
+    <symbol id="card-clubs-9" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">9♣</text>
+        <text x="80" y="140" font-size="18" fill="black">9♣</text>
+    </symbol>
+    <symbol id="card-clubs-10" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">10♣</text>
+        <text x="80" y="140" font-size="18" fill="black">10♣</text>
+    </symbol>
+    <symbol id="card-clubs-jack" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">J♣</text>
+        <text x="80" y="140" font-size="18" fill="black">J♣</text>
+    </symbol>
+    <symbol id="card-clubs-queen" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">Q♣</text>
+        <text x="80" y="140" font-size="18" fill="black">Q♣</text>
+    </symbol>
+    <symbol id="card-clubs-king" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">K♣</text>
+        <text x="80" y="140" font-size="18" fill="black">K♣</text>
+    </symbol>
+    <symbol id="card-clubs-ace" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="black">A♣</text>
+        <text x="80" y="140" font-size="18" fill="black">A♣</text>
+    </symbol>
+
+    <!-- Бубни -->
+    <symbol id="card-diamonds-6" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">6♦</text>
+        <text x="80" y="140" font-size="18" fill="red">6♦</text>
+    </symbol>
+    <symbol id="card-diamonds-7" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">7♦</text>
+        <text x="80" y="140" font-size="18" fill="red">7♦</text>
+    </symbol>
+    <symbol id="card-diamonds-8" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">8♦</text>
+        <text x="80" y="140" font-size="18" fill="red">8♦</text>
+    </symbol>
+    <symbol id="card-diamonds-9" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">9♦</text>
+        <text x="80" y="140" font-size="18" fill="red">9♦</text>
+    </symbol>
+    <symbol id="card-diamonds-10" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">10♦</text>
+        <text x="80" y="140" font-size="18" fill="red">10♦</text>
+    </symbol>
+    <symbol id="card-diamonds-jack" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">J♦</text>
+        <text x="80" y="140" font-size="18" fill="red">J♦</text>
+    </symbol>
+    <symbol id="card-diamonds-queen" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">Q♦</text>
+        <text x="80" y="140" font-size="18" fill="red">Q♦</text>
+    </symbol>
+    <symbol id="card-diamonds-king" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">K♦</text>
+        <text x="80" y="140" font-size="18" fill="red">K♦</text>
+    </symbol>
+    <symbol id="card-diamonds-ace" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="white" stroke="black" stroke-width="2"/>
+        <text x="10" y="20" font-size="18" fill="red">A♦</text>
+        <text x="80" y="140" font-size="18" fill="red">A♦</text>
+    </symbol>
+
+    <!-- Рубашка -->
+    <symbol id="card-back" viewBox="0 0 100 150">
+        <rect width="100" height="150" fill="blue" stroke="black" stroke-width="2"/>
+        <text x="50%" y="50%" font-size="24" fill="white" text-anchor="middle" alignment-baseline="middle">★</text>
+    </symbol>
+</svg>
