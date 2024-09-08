@@ -16,3 +16,59 @@ body {
     color: var(--main-color);
     font-size: var(--font-size);
 }
+section{
+    margin: 0 auto;
+    max-width: 1040px;
+    border: 1px solid green;
+    padding: 20px;
+}
+
+#deck{
+    width :100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    flex-wrap: wrap;
+    gap :10px;
+}
+.card {
+    width: 100px;
+    height: 150px;
+    perspective: 1000px; /* Для 3D-ефекту */
+    cursor: pointer;
+}
+
+.card-inner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.card:hover .card-inner {
+    transform: rotateY(180deg);
+}
+.active{
+    transform: rotateY(180deg);
+}
+
+.card-front, .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden; /* Приховує задню сторону при перевертанні */
+}
+
+.card-front {
+    transform: rotateY(180deg); /* Задня сторона карти перевернута */
+}
+
+svg, img {
+    width: 100px;
+    height: 150px;
+}
+
+
